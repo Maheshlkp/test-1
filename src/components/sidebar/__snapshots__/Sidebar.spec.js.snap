@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Sidebar should render correctly 1`] = `
+Array [
+  <nav>
+    <ul>
+      <li>
+        <Link
+          to="/"
+        >
+          Add
+        </Link>
+      </li>
+      <li>
+        <Link
+          to="/result"
+        >
+          Result
+        </Link>
+      </li>
+    </ul>
+  </nav>,
+]
+`;

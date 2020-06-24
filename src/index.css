@@ -1,0 +1,63 @@
+body {
+    margin: 0px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: antiquewhite;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  .App {
+    font-family: sans-serif;
+  }
+  
+  .heading {
+    font-weight: bold;
+    text-decoration: underline;
+    color: chocolate;
+    background-color: antiquewhite;
+  }
+  
+  .pad {
+    padding: 20px 0px;
+  }
+  
+  li {
+    list-style: none;
+    padding: 5px;
+  }
+  
+  .sidebar {
+    width: 30%;
+    height: auto;
+    display: inline-block;
+  }
+  
+  .main {
+    width: 69%;
+    height: 100%;
+    display: inline-block;
+    height: 100%;
+    float: right;
+  }
+
+  .headertext{
+      color: rosybrown;
+      text-align: center;
+      background-color: beige
+  }
+  
+  textarea {
+    width: 100%;
+    margin: 20px 0px;
+    min-height: 80px;
+  }
+  
+  .add-btn {
+    width: 150px;
+    float: right;
+    height: 60px;
+  }
+  

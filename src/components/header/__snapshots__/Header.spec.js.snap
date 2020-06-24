@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Header should render correctly 1`] = `
+Array [
+  <header>
+    <h1
+      className="header"
+    >
+      Calculator
+    </h1>
+  </header>,
+]
+`;
