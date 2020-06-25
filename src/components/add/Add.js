@@ -25,7 +25,7 @@ export const Add = () => {
         />
       </div>
       <div>
-        <button className="btn btn-primary add-btn" onClick={handleSubmit}>
+        <button className="btn btn-success add-btn" onClick={handleSubmit}>
           Add
         </button>
       </div>

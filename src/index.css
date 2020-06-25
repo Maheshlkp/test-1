@@ -2,7 +2,7 @@ body {
     margin: 0px;
     padding: 10px;
     font-size: 20px;
-    background-color: antiquewhite;
+    background-color: rgb(219, 202, 179);
   }
   
   .container {
@@ -12,12 +12,17 @@ body {
   .App {
     font-family: sans-serif;
   }
+
+  .header {
+    font-weight: bold;
+    color:rgb(173, 138, 138);
+    text-align: center
+  }
   
   .heading {
     font-weight: bold;
     text-decoration: underline;
-    color: chocolate;
-    background-color: antiquewhite;
+    color:grey;
   }
   
   .pad {
@@ -33,6 +38,8 @@ body {
     width: 30%;
     height: auto;
     display: inline-block;
+    color: rgb(229, 209, 186);
+    background-color:  rgb(212, 161, 103);
   }
   
   .main {
